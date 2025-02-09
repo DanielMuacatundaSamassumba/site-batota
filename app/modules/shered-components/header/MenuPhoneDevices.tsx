@@ -11,7 +11,7 @@ export default function MenuPhoneDevices() {
                 <Link href="/modules/terms-of-service">
                     <li className='border-b  p-2 hover:text-main_color cursor-pointer'>Termos e condições de uso</li>
                 </Link>
-                <Link href="/modules/blog" className=' w-1/3'>
+                <Link href="/" className=' w-1/3'>
                     <li >
                         <button className=" text-white p-2 w-1/2 bg-main_color rounded-sm">
                             Blog

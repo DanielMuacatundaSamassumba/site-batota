@@ -15,13 +15,6 @@
       "static/css/e330414baa861503.css",
       "static/chunks/app/layout-45ad83a020318006.js"
     ],
-    "/modules/how-to-delete-account/page": [
-      "static/chunks/webpack-7467c16a9251c00a.js",
-      "static/chunks/4bd1b696-42d6eb02049d68c2.js",
-      "static/chunks/517-62fe557e1be77e05.js",
-      "static/chunks/main-app-1bd2832613940658.js",
-      "static/chunks/app/modules/how-to-delete-account/page-060b137f6820e866.js"
-    ],
     "/modules/how-to-delete-some-account-data/page": [
       "static/chunks/webpack-7467c16a9251c00a.js",
       "static/chunks/4bd1b696-42d6eb02049d68c2.js",
@@ -29,22 +22,12 @@
       "static/chunks/main-app-1bd2832613940658.js",
       "static/chunks/app/modules/how-to-delete-some-account-data/page-0a6885495f6d663f.js"
     ],
-    "/modules/privacy-policy/page": [
+    "/modules/how-to-delete-account/page": [
       "static/chunks/webpack-7467c16a9251c00a.js",
       "static/chunks/4bd1b696-42d6eb02049d68c2.js",
       "static/chunks/517-62fe557e1be77e05.js",
       "static/chunks/main-app-1bd2832613940658.js",
-      "static/chunks/984-af4d9293b351e305.js",
-      "static/chunks/53-0899d28a2993737c.js",
-      "static/chunks/app/modules/privacy-policy/page-f04485fec44aca5a.js"
-    ],
-    "/page": [
-      "static/chunks/webpack-7467c16a9251c00a.js",
-      "static/chunks/4bd1b696-42d6eb02049d68c2.js",
-      "static/chunks/517-62fe557e1be77e05.js",
-      "static/chunks/main-app-1bd2832613940658.js",
-      "static/chunks/984-af4d9293b351e305.js",
-      "static/chunks/app/page-90b237b4b0534c40.js"
+      "static/chunks/app/modules/how-to-delete-account/page-060b137f6820e866.js"
     ],
     "/modules/terms-of-service/page": [
       "static/chunks/webpack-7467c16a9251c00a.js",
@@ -53,7 +36,24 @@
       "static/chunks/main-app-1bd2832613940658.js",
       "static/chunks/984-af4d9293b351e305.js",
       "static/chunks/53-0899d28a2993737c.js",
-      "static/chunks/app/modules/terms-of-service/page-1817699536a066fc.js"
+      "static/chunks/app/modules/terms-of-service/page-8a305ac6bdf6db22.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-7467c16a9251c00a.js",
+      "static/chunks/4bd1b696-42d6eb02049d68c2.js",
+      "static/chunks/517-62fe557e1be77e05.js",
+      "static/chunks/main-app-1bd2832613940658.js",
+      "static/chunks/984-af4d9293b351e305.js",
+      "static/chunks/app/page-af8debc8bc435de9.js"
+    ],
+    "/modules/privacy-policy/page": [
+      "static/chunks/webpack-7467c16a9251c00a.js",
+      "static/chunks/4bd1b696-42d6eb02049d68c2.js",
+      "static/chunks/517-62fe557e1be77e05.js",
+      "static/chunks/main-app-1bd2832613940658.js",
+      "static/chunks/984-af4d9293b351e305.js",
+      "static/chunks/53-0899d28a2993737c.js",
+      "static/chunks/app/modules/privacy-policy/page-79d3f5732a871b3b.js"
     ]
   }
 }
