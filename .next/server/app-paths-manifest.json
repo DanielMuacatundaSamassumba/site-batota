@@ -1,9 +1,9 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/modules/how-to-delete-some-account-data/page": "app/modules/how-to-delete-some-account-data/page.js",
   "/modules/how-to-delete-account/page": "app/modules/how-to-delete-account/page.js",
+  "/modules/how-to-delete-some-account-data/page": "app/modules/how-to-delete-some-account-data/page.js",
+  "/modules/privacy-policy/page": "app/modules/privacy-policy/page.js",
   "/modules/terms-of-service/page": "app/modules/terms-of-service/page.js",
-  "/page": "app/page.js",
-  "/modules/privacy-policy/page": "app/modules/privacy-policy/page.js"
+  "/page": "app/page.js"
 }

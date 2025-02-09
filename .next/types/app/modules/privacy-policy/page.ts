@@ -1,4 +1,4 @@
-// File: C:\Users\Dark Mode\Downloads\terms-batota-app\terms-batota-app\app\modules\privacy-policy\page.tsx
+// File: /Users/bee16/Documents/site-batota/app/modules/privacy-policy/page.tsx
 import * as entry from '../../../../../app/modules/privacy-policy/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

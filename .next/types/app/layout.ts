@@ -1,4 +1,4 @@
-// File: C:\Users\Dark Mode\Downloads\terms-batota-app\terms-batota-app\app\layout.tsx
+// File: /Users/bee16/Documents/site-batota/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

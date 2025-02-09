@@ -1,4 +1,4 @@
-// File: C:\Users\Dark Mode\Downloads\terms-batota-app\terms-batota-app\app\modules\how-to-delete-account\page.tsx
+// File: /Users/bee16/Documents/site-batota/app/modules/how-to-delete-account/page.tsx
 import * as entry from '../../../../../app/modules/how-to-delete-account/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
